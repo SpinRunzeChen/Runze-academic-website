@@ -12,40 +12,41 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "C/C++, Python, Matlab, JAVA, LabVIEW, Go, Verilog"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "edit"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Visualisation"
+  description = "Origin Pro, Matplotlib, 3ds Max, Paraview"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Tools"
+  description = "Git, VS Code, Sublime, Adobe, Microsoft, Autodesk"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+  icon = "academia"
+  icon_pack = "ai"
+  name = "Knowledge"
+  description = "Computer science, Ultrafast optics, Low-dimensional material, Nonlinear optics, Micromagnetics, Spintronics, Skyrmions, Spiking neural networks, Deep neural networks"
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "file-video"
+  icon_pack = "fas"
+  name = "Video Editing"
+  description = "Vloging, Final cut pro X, Compressor, Adobe premiere"
 
+[[feature]]
+  icon = "running"
+  icon_pack = "fas"
+  name = "Sports"
+  description = "Long-distance Running, Swimming, Basketball, Football, Ping-Pong"
 +++

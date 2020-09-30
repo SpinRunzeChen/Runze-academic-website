@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Runze Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,57 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 2nd year PhD student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Skyrmionics Group, University of Manchester
+  url: "https://skyrmionics.org/nano%CF%83ky-team/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spintronics, nanostorage, non von Neumann architecture design ,neuromorphic computing, and skyrmionics.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuromorphic Computing
+- Nanostorage
+- Non von Neumann Architecture Design
+- Spintronics
+- Micromagnetics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD candidate in Computer Science
+    institution: University of Manchester
+    year: 2018.09 - 2022.09
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:runze.chen.cs@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/runzeskr
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/SpinRunzeChen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "runze.chen.cs@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+With semiconductor transistors already at the nanometer scale, non-negligible phenomena including electrical leakage, device heat dissipation, and the quantum effects of electrons are getting increasingly critical. In order to prolong Moore’s law, an approach is to employ novel computing paradigms explored by looking for novel information carriers that can combine optimal performance and excellent energy efficiency. One of the emerging technologies that can complement CMOS technologies is spintronics (also known as magnetoelectronics or spin electronics), where information can be retained and processed by utilising the spin in addition to the charge of the electrons. It is possible to achieve low-power and low-heat computing/storage in CMOS-spintronics hybrid systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The concept of a skyrmion was firstly proposed by British nuclear physicist Tony Skyrme to describe the interactions of pions in the context of nuclear physics. A skyrmion is a topological quasiparticle excitation in classical continuum field theory, which is robust as long as the field is spatially continuous, and the edge effects are negligible. When it comes to magnetic skyrmions, they have the topological configuration that differs from the traditional magnetic vortex structure: the spins of the core point upwards, smoothly twist and gradually rotate downwards along both radial and angular directions with specific chirality. It originates from the interplay of two energy terms, including the isotropic Heisenberg exchange interaction and antisymmetric Dzyaloshinskii-Moriya interaction (DMI) which arises from spin-orbit coupling (SOC) and broken inversion symmetry
+
+As for my PhD project, I would like to explore skyrmions for novel computations and skyrmion-based electronics, especially on modelling skyrmion-based nano-devices with logic/computing and memory functionality using a micromagnetics framework as well as developing circuit models for these devices towards their integration compatible CMOS technologies.
